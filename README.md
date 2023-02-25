@@ -1,3 +1,3 @@
 # feature-selection-methods
 
-- based on Udemy course on Feature Selection for ML
+- based on Udemy course: Feature Selection for ML
